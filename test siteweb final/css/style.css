@@ -1,0 +1,225 @@
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    
+}
+
+
+nav ul li {
+    display: inline-block; 
+    background-color: rgba(255, 255, 255, 0);
+    padding: 10px 20px 20px 20px;
+    
+}
+
+.bouton {
+    text-align:right;
+    font-size: 25px;
+    padding: 10px 20px 30px 50px;
+    
+}
+
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}  
+
+nav ul li a:hover {
+    color: #5877ba;
+}
+
+.image {
+    height: 700px;
+    width: 0 auto;
+    background-image: url(../image/img1.png);
+    background-size: cover;
+}
+.txt1 {
+   padding: 100px 400px 0px 400px; 
+    font-size: 24px;
+    color: white;
+    letter-spacing: 3px;
+    text-align: center;
+}
+.txt2 {
+   padding: 0px 350px 0px 350px; 
+    font-size: 70px;
+    color: white;
+    text-align: center;
+    letter-spacing: 2px;
+    }
+
+h2{
+    padding: 60px 500px 0px 500px;
+  font-size: 30px;
+    text-align: center;
+    color: #5877ba;
+
+}
+
+
+h5{
+   padding: 60px 15px 10px 10px;
+   font-size: 30px;
+   text-align: center;
+   color: #5877ba;
+}
+
+
+
+.propos p{
+    padding: 50px 400px 0px 400px;
+    text-align: center;
+    font-size: 16px;
+    color: #5877ba;
+}
+.img2 {
+    padding: 50px 10px 0px 10px;
+    text-align: center;
+}
+.projets p{
+    padding: 50px 400px 0px 400px;
+    text-align: center;
+    font-size: 16px;
+    color: #5877ba;
+}
+
+ .container{
+    display:contents;
+    justify-content:center;
+     margin:30px;
+}
+
+.img3 img{
+    width:300px;
+    transition: all 0.5s;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+}
+.img3{
+    text-align: center;
+    padding: 30px 200px 30px 200px;
+}
+.cadreGris{
+    height: 350px;
+    width: 0 auto;
+    background-color: #6c757d;    
+}
+
+.logos{
+    display:block;
+    padding: 30px 50px 30px 50px;
+    text-align: center;
+
+}
+.logos img{
+  padding: 50px 30px 50px 30px;  
+}
+
+#projet .row{
+    text-align: center;
+    margin:1px;
+}
+
+
+.video p{
+   padding: 0px 0px 0px 0px;
+    text-align: center;
+    font-size: 16px;
+    color: #5877ba;
+}
+
+
+.logos2{
+    display: block;
+    padding: 10px 10px 10px 10px;
+    
+}
+.col-md-3 img {
+    text-align: left;
+    padding: 10px 10px 10px 10px;
+}
+.col-md-3{
+   text-align: left; 
+}
+
+
+.col-md-4 img{
+    display:inline-block;
+    text-align: center;
+    justify-content: unset;
+    padding: 10px 10px 10px 10px;
+}
+
+.images{
+    width:300px;
+    transition: all 0.5s;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+}
+
+.partenaires{
+    padding: 10px;
+    margin: 15px;
+    box-shadow: 0px 10px 30px;
+    border-radius: 15px;
+    color: #5877ba;
+
+
+}
+
+.cards {
+  padding: 15px 0;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+              
+.cards {
+  padding: 15px 0;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.col-md-5{
+   text-align: left; 
+
+}
+                        
+
+.cards7 {
+  padding: 5px 0;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.card7-element {
+  width: 30%;
+  background-size: cover;
+  background-position: center;
+  height: 180px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: whitesmoke;
+  font-size: 24px;
+  color: white;
+  font-weight: bold;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  float: center;
+}
+
+
+a {
+    text-decoration: none;
+    color: white;
+               
+}
+
+             
